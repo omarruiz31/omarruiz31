@@ -1,7 +1,7 @@
 # Hi, I'm Omar 👋
 
 💻 Software Engineering Student  
-🚀 Interested in Web Development and Cybersecurity  
+🚀 Interested in Web Development 
 
 ---
 
@@ -39,7 +39,6 @@
 
 - Learning **Java & JavaScript**
 - Building **Web Applications**
-- Exploring **Cybersecurity**
 
 ---
 
