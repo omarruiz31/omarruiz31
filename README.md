@@ -25,21 +25,9 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=omarruiz31&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📌 Current Focus
 
 - Learning **Java & JavaScript**
 - Building **Web Applications**
 
 ---
-
-⭐ From [omarruiz31](https://github.com/omarruiz31)
