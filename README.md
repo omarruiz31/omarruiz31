@@ -1,10 +1,46 @@
-# ¡Hola! Soy Omar Ruiz 👋
+# Hi, I'm Omar 👋
 
-<p align="center">
-  <img src="https://media.tenor.com/WcsxzKMRNv8AAAAj/star-wars-robot.gif" width="150"/>
-</p>
-
-¡Bienvenido a mi perfil de GitHub! 
+💻 Software Engineering Student  
+🚀 Interested in Web Development and Cybersecurity  
 
 ---
 
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omarruiz31&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarruiz31&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=omarruiz31&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📌 Current Focus
+
+- Learning **Java & JavaScript**
+- Building **Web Applications**
+- Exploring **Cybersecurity**
+
+---
+
+⭐ From [omarruiz31](https://github.com/omarruiz31)
