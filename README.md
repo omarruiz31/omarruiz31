@@ -1,7 +1,6 @@
 # Hi, I'm Omar 👋
 
 💻 Software Engineering Student  
-🚀 Interested in Web Development 
 
 ---
 
