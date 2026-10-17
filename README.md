@@ -18,7 +18,6 @@ I'm a Software Engineering student interested in building software, understandin
 
 - 📚 Improving my skills in **Java and JavaScript**
 - 🧪 Learning **Software Testing and Software Design**
-- 🌐 Exploring **Web Development and APIs**
 - 🔐 Interested in **Cybersecurity and Application Security**
 
 ---
@@ -29,14 +28,3 @@ I'm a Software Engineering student interested in building software, understandin
 - 💻 Exploring new projects to strengthen my software development skills.
 
 ---
-
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/jeffbranch">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-*Always learning, building, and getting better.*
